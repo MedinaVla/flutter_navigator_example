@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
 }
 
 class UsersView extends StatelessWidget {
-  final _users = ["Kyle", "Adriana", "Andrew", "Xavier", "Mya", "Vladimir"];
+  final _users = ["Yesenia", "Lubia", "Andrew", "Xavier", "Mya", "Vladimir"];
   late final ValueChanged didSelectedUser;
 
   UsersView({required this.didSelectedUser});
